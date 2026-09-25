@@ -70,6 +70,7 @@
 ### Tooling & Integrations
 
 - [Agent QA](https://github.com/vostride/agent-qa) — 透過 CLI、MCP 伺服器與三個以證據為導向的 Agent Skills，執行自然語言網頁與行動應用程式 QA 工作流程。 `Type: CLI + MCP + Collection` · `Platforms: Codex, Agent Skills-compatible agents`
+- [Agent Skill Studio](https://github.com/devilking7x/agent-skill-studio) — 透過本地優先的瀏覽器工作室建立、驗證並匯出 Agent Skills，並為 Claude Code、Codex、Cursor、Copilot 和 Gemini CLI 提供一鍵安裝包。 `Type: Web app` · `Platforms: Claude Code, Codex, Cursor, Copilot, Gemini CLI`
 - [SandBase](https://github.com/sandbaseai/cli) — 透過本機 CLI 管理的 MCP 橋接器與 Agent Skill，讓 AI Agent 連接統一的模型與工具 API。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — 提供受控的 X 研究、發布、媒體、追蹤者匯出、抽獎與監測工作流程。 `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
 
